@@ -72,7 +72,7 @@ p{margin-bottom:16px}
 .demo-note strong{color:var(--green)}.demo-note p{margin:5px 0 0;font-size:13px;color:var(--muted)}
 .progress{margin-bottom:25px}.progress>p{font-size:13px;font-weight:600;color:var(--muted);margin-bottom:16px}
 .progress ol{padding:0;margin:0;display:flex;list-style:none;gap:20px}.progress li{display:flex;align-items:center;gap:8px;flex:1;font-size:14px;color:var(--muted);padding-bottom:14px;border-bottom:3px solid var(--line)}.progress li.reached{border-color:var(--green);color:var(--green)}.progress li[aria-current]{font-weight:700}
-.progress li span{width:24px;height:24px;border-radius:50%;background:#e2e8e1;font-size:12px;display:grid;place-items:center}.progress li.reached span{background:var(--green);color:white}.progress a{min-height:30px}
+.progress li span{width:24px;height:24px;border-radius:50%;background:#e2e8e1;font-size:12px;display:grid;place-items:center}.progress li.reached span{background:var(--green);color:white}.progress a{min-height:44px;display:inline-flex;align-items:center}
 .panel{background:white;border:1px solid var(--line);border-radius:var(--radius);padding:36px;min-width:0}
 .page-heading{margin-bottom:25px}.page-heading h1{font-size:clamp(1.9rem,3.3vw,2.65rem)}.page-heading p:last-child{margin-bottom:0}
 .privacy-note{font-size:13px;color:var(--muted);padding:12px 0 20px;border-bottom:1px solid var(--line)}
