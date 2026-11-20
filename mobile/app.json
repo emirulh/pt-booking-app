@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "EH Training",
+    "slug": "eh-training",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.emirulh.ptbooking"
+    },
+    "android": {
+      "package": "com.emirulh.ptbooking"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": ["expo-router", "expo-status-bar", "expo-sharing"],
+    "scheme": "ehtraining"
+  }
+}
